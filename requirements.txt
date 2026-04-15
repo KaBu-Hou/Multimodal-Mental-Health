@@ -1,0 +1,17 @@
+# 基础数据处理
+numpy>=1.24.0
+pandas>=2.0.0
+Pillow>=10.0.0
+
+# 深度学习框架
+torch>=2.0.0
+transformers>=4.30.0
+tokenizers>=0.13.0
+
+# 视频/图像处理
+opencv-python>=4.8.0
+ffmpeg-python>=0.2.0
+
+# 日志/配置
+python-dotenv>=1.0.0
+loguru>=0.7.0
